@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "989629991533",
+    "firebase_url": "https://daily-bible-wallpapers.firebaseio.com",
+    "project_id": "daily-bible-wallpapers",
+    "storage_bucket": "daily-bible-wallpapers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989629991533:android:2f5545bb3d83a98b8d4d64",
+        "android_client_info": {
+          "package_name": "com.example.bible_wallpaper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989629991533-dlkorvj0vd4v4fhubqvn11rb5rtj2gua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bible_wallpaper_app",
+            "certificate_hash": "bc78d36304b112301c989c54aa23a20fa40c50f3"
+          }
+        },
+        {
+          "client_id": "989629991533-eqijms6nt48bajefsdhr6n7n6ciirqsg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bible_wallpaper_app",
+            "certificate_hash": "f9b817972fe9615ebf2e4cf285e0376dbbff51e4"
+          }
+        },
+        {
+          "client_id": "989629991533-3ig90oelogg9c24c0luc9olbemmara0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLEkzPsyq4Yb8BMHsS0dTidmlZ2zhKpWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989629991533-3ig90oelogg9c24c0luc9olbemmara0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989629991533:android:e357b0f323d3615f8d4d64",
+        "android_client_info": {
+          "package_name": "com.example.bible_wallpaper_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989629991533-42iufkl8ajkju6m8gntrm28no2bcb44s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bible_wallpaper_upload",
+            "certificate_hash": "bc78d36304b112301c989c54aa23a20fa40c50f3"
+          }
+        },
+        {
+          "client_id": "989629991533-qb3g88rin32mtor1msfin8q2i13cjpr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bible_wallpaper_upload",
+            "certificate_hash": "f9b817972fe9615ebf2e4cf285e0376dbbff51e4"
+          }
+        },
+        {
+          "client_id": "989629991533-3ig90oelogg9c24c0luc9olbemmara0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLEkzPsyq4Yb8BMHsS0dTidmlZ2zhKpWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989629991533-3ig90oelogg9c24c0luc9olbemmara0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
