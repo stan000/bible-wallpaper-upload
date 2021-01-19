@@ -1,16 +1,17 @@
 # bible_wallpaper_upload
 
-A new Flutter project.
+A Flutter project. Used to upload wallpapers to my main app Bible Wallpapers
+Developer is Stan Mpakati
+Graphics designer is Shayne Ncube
 
-## Getting Started
+## About project
 
-This project is a starting point for a Flutter application.
+This project was programmed using
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK
+- Provider v4.3.2+3
+- GoogleSignIn and Firebase, with a firestore database
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To get in touch with developer you can [email me](mailto:mpakatistang@gmail.com)
+Check out my [Linkedin](https://www.linkedin.com/in/stan-mpakati-244ba6173)
+Or [twitter](https://twitter.com/stanmpakati)
